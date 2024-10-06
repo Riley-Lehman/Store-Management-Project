@@ -15,8 +15,9 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-![alt text](image.png)
+[Screenshot 2024-10-06 11 20 43 AM](https://github.com/user-attachments/assets/cf86680a-fb48-4c9e-a70f-b925e948f009)
 ## Description
+
 
 In this project I made a store that sells different types of photos. My store sells colored and black and white photos for different prices. I choose this idea because I like pictures and photography, I find it calming and personal when I make something relating to my interests and ideals. This projetct came to fruition because I used a few variables to describe the photos and both their general and unique characteristics. This includes price, the date the photo was taken, the photographer resposible for the photo, the color mode, and even the name of the camera that was used to take the photo! I used system out print line to display all the different characteristics of the two differing photos. They Read: Photo: The Night Sky, Photographer: Gerald Rhemann, Date Taken: 9.15.2022, Camera: Canon EOS R6 Mark II, Price: $200.0, Color Mode: Full Color
 Photo: Famous Artist, Photographer: Rembrandt, Date Taken: 2.27.2021, Camera: Fujifilm X-T5, Price: $150.0, Color Mode: Black and White. 
